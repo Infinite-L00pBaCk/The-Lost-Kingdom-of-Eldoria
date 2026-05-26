@@ -35,7 +35,7 @@
 
 ---
 
-## ⚔️ Overview
+## ⚔️ Overview 
 
 **The Lost Kingdom of Eldoria** is an immersive, story-driven text-based adventure game built entirely in C++. You play as a wanderer who stumbles upon an ancient map leading to a kingdom lost to time — sealed away by dark magic, forgotten by the world. What you find there, and how you leave, depends entirely on the choices you make.
 
